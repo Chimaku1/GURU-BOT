@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner= [INNOCENT
   ['+260961334427', 'CHIMAKU', true],
   ['+260961334427', 'JAMES', true], 
   [''] 
@@ -50,25 +50,18 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'Chimaku'
 global.premium = 'true'
-global.packname = 'JAMES┃ᴮᴼᵀ' 
+global.packname = 'JACKSON
 global.author = '@CHIMAKU' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
+global.thumb = fs.readFileSync('./Assets/INNOCENT.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Be patient..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.dmoji = '😑'
+global.done = '👍'
+global.error = '👎' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
