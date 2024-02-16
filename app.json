@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (INNOCENT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -49,8 +49,8 @@
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
