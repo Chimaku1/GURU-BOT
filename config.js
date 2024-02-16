@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner= [INNOCENT
   ['+260961334427', 'CHIMAKU', true],
-  ['+260961334427', 'JAMES', true], 
+  ['+260955841163', 'INNOCENT, true], 
   [''] 
 ] //Number of owners
 
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'Chimaku'
 global.premium = 'true'
 global.packname = 'JACKSON
-global.author = '@CHIMAKU' 
+global.author = '@INNOCENT' 
 global.thumb = fs.readFileSync('./Assets/INNOCENT.jpg')
 
 
