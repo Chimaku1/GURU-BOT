@@ -146,7 +146,7 @@ export async function handler(chatUpdate) {
                 if (!("useDocument" in chat)) chat.useDocument = false
                 if (!("viewOnce" in chat)) chat.viewOnce = false
                 if (!("viewStory" in chat)) chat.viewStory = false
-                if (!("welcome" in chat)) chat.welcome = false
+                if (!("welcome" in chat)) chat.welcome = true
                 if (!("chatbot" in chat)) chat.chatbot = false
                 if (!isNumber(chat.expired)) chat.expired = 0
             } else
@@ -264,7 +264,7 @@ export async function handler(chatUpdate) {
                 }
             }
             if (!opts["restrict"])
-                if (plugin.tags && plugin.tags.includes("admin")) {
+                if (plugin.tags && plugin.tags.includes("INNOCENT")) {
                     // global.dfail("restrict", m, this)
                     continue
                 }
