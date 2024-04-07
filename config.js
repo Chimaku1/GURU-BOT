@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner= [INNOCENT
   ['+260961334427, 'INNOCENT],true
-  ['+260773976808', 'INNOCENT, true], 
+  ['+260961334427', 'INNOCENT, true], 
   [''] 
 ] //Number of owners
 
